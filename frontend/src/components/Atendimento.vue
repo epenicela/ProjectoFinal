@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <v-row class="text-left">
+    <v-row class="text-left"> 
       <v-col class="mb-4">
         <v-subheader class="py-0 d-flex justify-space-between rounded-lg">
           <v-btn color="blue" small icon @click="abrirForm();">
