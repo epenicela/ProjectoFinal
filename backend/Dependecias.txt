@@ -19,3 +19,21 @@ npm install --save core-js
 
 link icon
 https://mdisearch.com/
+
+
+
+hoped
+projec
+https://railway.app/project/13f24c6a-e9c4-48f1-8c0f-cb6d37cdea96/service/4e5fbae5-a327-40c7-8374-37837fb24b25?id=439b9bd4-46f8-4a26-8b98-b82e3d2fd125
+domin
+www.vacin.com
+
+funcional
+https://backend-production-f079.up.railway.app/
+
+
+
+DB_HOST  -  containers-us-west-101.railway.app
+DB_USERNAME  - root
+DB_PASSWORD  - sGsTtMDCYOElyDTQIuR7
+DB_DBNAME - railway

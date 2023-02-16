@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 12, 2019, 9:01:57 AM
+    Author     : penicela
+*/
+
+
+/*Abrir Formatacao admin*/
+header, main, footer,.content {
+    padding-left: 300px;
+}
+@media only screen and (max-width : 992px) {
+    header, main, footer,.content {
+        padding-left: 0;
+    }
+}
+/*Fechar Formatacao admin*/
+
+listAfastamento_Esquerda{
+    padding-left: 5%;
+}
+.footer-fixed {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
